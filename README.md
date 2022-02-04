@@ -25,4 +25,9 @@ The website encourages the users to live their life no matter what is happening 
 
 
 
+<img src="https://user-images.githubusercontent.com/67340125/152483303-60cba068-34fb-4497-b7bf-b416b9f1633f.png">
+
+
+
+
 
